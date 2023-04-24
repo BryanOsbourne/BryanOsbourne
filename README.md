@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I am a skilled consultant with expertise in administrative/accounting software, currently seeking new challenges to complement my ongoing education as a fourth-semester system engineering student.<br>- With a strong foundation in Java programming, I have been able to develop a variety applications and am currently working on a cutting-edge project utilizing Angular and SpringBoot technologies.<br>- I am passionate about learning and growing as a developer, and am seeking job opportunities that will challenge and inspire me to reach my full potential.<br>- Whether it's building innovative new software solutions or collaborating with like-minded professionals, I am committed to leveraging my skills and experience to make a positive impact in the tech industry.
+- I am a skilled consultant with expertise in administrative/accounting software, currently seeking new challenges to complement my ongoing education as a fourth-semester system engineering student.<br>- With a strong foundation in Java programming, I have been able to develop a variety applications and am currently working on a project utilizing Angular and SpringBoot technologies.<br>- I am passionate about learning and growing as a developer, and am seeking job opportunities that will challenge and inspire me to reach my full potential.<br>- Whether it's building innovative new software solutions or collaborating with like-minded professionals, I am committed to leveraging my skills and experience to make a positive impact in the tech industry.
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BryanOsbourne&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BryanOsbourne&icon=0&color=0)](https://visitcount.itsvg.in)
